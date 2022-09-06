@@ -6,10 +6,12 @@
   >
 </p>
 
-- 👋 Hi, I’m @Alpaga-Kun
-- 👀 I’m interested in in alpacas
-- 🌱 I’m currently learning different programming languages
-- 📫 How to reach me, come visit me in Reunion Island
+✨ Welcome on my page ! ✨
+
+You will find different projects that I have done so far. Here are some of the themes you can explore:
+- Algorithm design
+- Data parser
+- Video game development (general)
 
 <!---
 Alpaga-Kun/Alpaga-Kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
