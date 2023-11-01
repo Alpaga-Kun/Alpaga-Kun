@@ -38,7 +38,7 @@ In progress...
 
 ## 📱 Connect with Me
 
-- [LinkedIn]([(https://www.linkedin.com/in/team-bodzen/])
+- [LinkedIn]([(https://www.linkedin.com/in/team-bodzen/]))
 
 ## 📩 Contact
 
