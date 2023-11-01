@@ -21,12 +21,15 @@
   </tr>
 </table>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Alpaga-Kun&color=blueviolet)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alpaga-Kun&theme=radical)
 
 # ✨ Welcome to My GitHub Profile! ✨
 
