@@ -8,10 +8,16 @@
 
 ✨ Welcome on my page ! ✨
 
-You will find different projects that I have done so far. Here are some of the themes you can explore:
-- Algorithm design
-- Data parser
-- Video game development (general)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpaga-Kun&show_icons=true&theme=radical)
+
+I'm originally from the island of Réunion.
+
+## Programming Languages Stats
+
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpaga-Kun&layout=compact)
+
+Feel free to explore my GitHub projects below and reach out if you have any questions or would like to collaborate.
+
 
 <!---
 Alpaga-Kun/Alpaga-Kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
