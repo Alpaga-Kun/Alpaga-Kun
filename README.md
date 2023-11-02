@@ -1,9 +1,3 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&color=FFFFFF&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=50&lines=No+ProbLlama+%F0%9F%A6%99;I'm+Alpaga-Kun;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-    </a>
-</h1>
-
 <table align="center" style="border-collapse: collapse; width: 80%;">
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
